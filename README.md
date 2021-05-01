@@ -1,7 +1,6 @@
 # About Me 
 - 👋 Hi, I’m Fariz Abduhakimov.
 - 👀 I’m interested in Full Stack development.
-- 👨‍🎓 Im study in Samarkand city 9th school of 8degree.
 - 🌱 I’m currently learning Python micro framework Flask.
 - ⚙️ I have simple projects done in Flask.
 
