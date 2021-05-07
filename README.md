@@ -61,4 +61,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [instagram]: https://www.instagram.com/mod_inst_user/
 
 ---
-My Email : `farizabduhakimov@gmail.com`
+### My Email : `farizabduhakimov@gmail.com`
