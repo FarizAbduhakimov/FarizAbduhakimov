@@ -60,4 +60,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [facebook]: https://www.facebook.com/fariz.abduhakimov
 [instagram]: https://www.instagram.com/mod_inst_user/
 
+---
 My Email : `farizabduhakimov@gmail.com`
