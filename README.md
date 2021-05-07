@@ -1,7 +1,6 @@
 ### Hi there👋, I'm Fariz.
 - 👀 I’m interested in Full Stack development.
 - 🌱 I’m currently learning Python micro framework Flask
-- 👯 I’m looking to collaborate with other content creators
 - ⚙️ I have simple projects done in Flask.
 
 
