@@ -40,27 +40,20 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github.com/FarizAbduhakimov">
-<img align="center" alt="fariz Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FarizAbduhakimov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/FarizAbduhakimov">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FarizAbduhakimov&layout=compact&theme=radical" />
-</a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FarizAbduhakimov&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FarizAbduhakimov&langs_count=5&theme=tokyonight)]()
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-[twitter]: https://twitter.com/Fariz20258080
-[facebook]: https://www.facebook.com/fariz.abduhakimov
-[instagram]: https://www.instagram.com/mod_inst_user/
-[linkedin]: https://www.linkedin.com/
+[instagram]: https://www.instagram.com/fariz_abduhakimov/
+[linkedin]: https://www.linkedin.com/in/fariz-abduhakimov-b326a0212
 
 ---
 ### My Email : `farizabduhakimov@gmail.com`
