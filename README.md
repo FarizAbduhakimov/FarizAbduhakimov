@@ -14,5 +14,5 @@ class FarizAbduhakimov():
     return self.name
  
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = FarizAbduhakimov()
 ```
